@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845958045986",
+    "project_id": "safwanmc-d4c28",
+    "storage_bucket": "safwanmc-d4c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845958045986:android:04742ae78208292bffc57b",
+        "android_client_info": {
+          "package_name": "com.example.safwanmc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKErwzA18bstws8nucvJS46v9BQZsNRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845958045986:android:793803d3bea966a7ffc57b",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_repair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKErwzA18bstws8nucvJS46v9BQZsNRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
